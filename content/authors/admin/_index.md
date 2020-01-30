@@ -74,7 +74,7 @@ Hi! Welcome to my personal website.
 
 I'm passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
 
-I started [Open Neuroscience](www.open-neuroscience.com), and volunteer at [Trend in Africa](trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
+I started [Open Neuroscience](https://www.open-neuroscience.com), and volunteer at [Trend in Africa](https://www.trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
 
 Currently I work at the Department of Neurosciences in the University of Sussex, where I develop equipment to support research labs.
 
