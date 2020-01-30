@@ -14,10 +14,10 @@ role: Research bioengineer
 # Organizations/Affiliations
 organizations:
 - name: Neuroscience department, University of Sussex
-  url: ""
+  url: "http://www.sussex.ac.uk/sussexneuroscience/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm interested in increasing accessibility to research and education by making scientific hardware open and affordable.
 
 interests:
 - Open Science
@@ -70,4 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Welcome to my personal website.
+
+I'm passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
+
+I started [Open Neuroscience](www.open-neuroscience.com), and volunteer at [Trend in Africa](trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
+
+Currently I work at the Department of Neurosciences in the University of Sussex, where I develop equipment to support research labs.
+
+If you like to get in touch, drop me a line using the contact form at the end of this page!
