@@ -11,3 +11,5 @@ tags: ["Computer hardware", "Open source hardware", "3D printing", "Equipment", 
 url_pdf: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002086"
 doi: "10.1371/journal.pbio.1002086"
 ---
+
+![](featured.PNG)
