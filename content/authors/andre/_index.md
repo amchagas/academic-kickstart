@@ -3,17 +3,17 @@
 name: André Maia Chagas
 # Username (this should match the folder name)
 authors:
-- admin
+- andre
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Research bioengineer
 
 # Organizations/Affiliations
 organizations:
-- name: Neuroscience department, University of Sussex
+- name: Sussex Neuroscience
   url: "http://www.sussex.ac.uk/sussexneuroscience/"
 
 # Short bio (displayed in user profile at end of posts)
