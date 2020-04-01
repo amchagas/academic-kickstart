@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Open Hardware to Alleviate the Burden of COVID-19 on Global Health Systems"
-date: 2020-03-01
+date: 2020-03-26
 publishDate: 2020-03-26T11:43:26.201140Z
 authors: ["Andre Maia Chagas", "Jennifer Molloy", "Lucia Prieto Godino", "Tom Baden"]
 publication_types: ["3"]
