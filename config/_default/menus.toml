@@ -27,10 +27,10 @@
 [[main]]
     name = "Awards"
     url = "#accomplishments"
-    weight = 50
+    weight = 60
 
 [[main]]
-    name = "Talks"
+    name = "Invited talks"
     url = "#talks"
     weight = 50
 

@@ -22,9 +22,7 @@ bio: I'm interested in increasing accessibility to research and education by mak
 interests:
 - Open Science
 - Open Source Hardware
-
-volunteering:
-- Trend in Africa
+- Open Source
 
 
 
@@ -57,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/amchagas
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2609-3017
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,17 +69,19 @@ email: "a.maia-chagas@sussex.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Hi! Welcome to my personal website.
 
 I'm passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
 
-I started [Open Neuroscience](https://www.open-neuroscience.com), and volunteer at [Trend in Africa](https://www.trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
+I started [Open Neuroscience](<https://open-neuroscience.com>), and volunteer at [Trend in Africa](<https://www.trendinafrica.org>) as an open source adviser and by organizing and running Open Labware workshops.
 
-Currently I work at the [Department of Neurosciences](http://www.sussex.ac.uk/sussexneuroscience/) in the University of Sussex, where I develop equipment to support research labs. For more details on those projects check the [Open Sussex Neuroscience page](https://sussex-neuroscience.github.io/)
+Currently I work at the [Department of Neurosciences](<http://www.sussex.ac.uk/sussexneuroscience/>) in the University of Sussex, where I develop equipment to support research labs. For more details on those projects check the [Open Sussex Neuroscience page](<https://sussex-neuroscience.github.io/>)
+
+On my spare time I offer consultancy services around open science hardware through [Prometheus Science](<https://prometheus-science.com>). If you need to replicate a methods paper, or if you'd like something custom built for your lab, get in touch!  
  
-If you like to get in touch, drop me a line using the contact form at the end of this page!
+If you would like to get in touch, drop me a line using the [contact form](#contact) at the end of this page!
