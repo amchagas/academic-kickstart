@@ -76,7 +76,7 @@ email: "a.maia-chagas@sussex.ac.uk"
 
 Hi! Welcome to my personal website.
 
-I'm passionate about open science and open source hardware, and how those two can be used to increase science and educations reach all over. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
+I'm passionate about open science and open source hardware, and how those two can be used to increase research and education reach around the world. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
 
 I started [Open Neuroscience](<https://open-neuroscience.com>), and volunteer at [Trend in Africa](<https://www.trendinafrica.org>) as an open source adviser and by organizing and running Open Labware workshops.
 
