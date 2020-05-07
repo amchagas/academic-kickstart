@@ -86,4 +86,3 @@ On my spare time I offer consultancy services around open science hardware throu
  
 If you would like to get in touch, drop me a line using the [contact form](#contact) at the end of this page!
 
-test deploy.
