@@ -19,7 +19,7 @@ function run_hugo_and_deploy () {
   cd public
   git add .
   git commit -m "update public"
-  git push:${USER:-${GITHUBUSER}}
+  git push:${amchagas:-${GITHUBUSER}}
   cd ..
   git add .
   git commit -m "update main repo"
