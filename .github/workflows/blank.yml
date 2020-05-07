@@ -36,28 +36,34 @@ jobs:
     - name: Build
       run: hugo
     #deploy by moving into the public folder and pushing it to the repo
-    - name: Deploy
-      #with:
+    #- name: Deploy
+       #with:
         #  github_token: ${{ secrets.GITHUB_TOKEN }}
         #  publish_dir: ./public 
-      
-      run: |
-        cd ./public
-        #using my personal information for now, need to figure out how to do this for each user later
-        git config --local user.name 'amchagas'
-        git config --local user.email 'andremaia.chagas@gmail.com'
-        
-        git add .
-        git commit -m "deploying website"
-    
-    #push changes
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    #deploy by moving into the public folder and pushing it to the repo
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-          git push
+        publish_dir: ./public  
+            
+        run: |
+          cd ./public
+          #using my personal information for now, need to figure out how to do this for each user later
+          git config --local user.name 'amchagas'
+          git config --local user.email 'andremaia.chagas@gmail.com'
+        
+          git add .
+          git commit -m "deploying website"
+    
+    #push changes
+    #- name: Push changes
+    #  uses: ad-m/github-push-action@master
+    #  with:
+    #    github_token: ${{ secrets.GITHUB_TOKEN }}
+    #      git push
         
             
     # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
+    #- name: Run a one-line script
+    #  run: echo Hello, world!
