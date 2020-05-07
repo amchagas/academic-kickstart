@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chemistry | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/chemistry/</link>
+      <atom:link href="https://amchagas.github.io/tags/chemistry/index.xml" rel="self" type="application/rss+xml" />
+    <description>chemistry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Tue, 18 Feb 2020 14:41:57 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>chemistry</title>
+      <link>https://amchagas.github.io/tags/chemistry/</link>
+    </image>
+    
+    <item>
+      <title>Pipette Puller Adapter</title>
+      <link>https://amchagas.github.io/project/pipette-puller-adapter/</link>
+      <pubDate>Tue, 18 Feb 2020 14:41:57 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/pipette-puller-adapter/</guid>
+      <description>&lt;p&gt;Developed for Dr. Eravci at the 
+&lt;a href=&#34;http://www.sussex.ac.uk/lifesci/internal/servicesandsupport/facilitiesandresources/massspectrometry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mass Spectrometry&lt;/a&gt; unit, this 3D printed adapter is used to hold polyamide tubes in a pipette puller.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

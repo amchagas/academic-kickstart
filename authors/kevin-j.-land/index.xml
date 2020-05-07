@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin J. Land | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/authors/kevin-j.-land/</link>
+      <atom:link href="https://amchagas.github.io/authors/kevin-j.-land/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin J. Land</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kevin J. Land</title>
+      <link>https://amchagas.github.io/authors/kevin-j.-land/</link>
+    </image>
+    
+    <item>
+      <title>First advanced open labware workshop and rapid prototyping solutions for research challenges in Africa</title>
+      <link>https://amchagas.github.io/publication/smith-first-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/smith-first-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

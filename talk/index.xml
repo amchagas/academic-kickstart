@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/talk/</link>
+      <atom:link href="https://amchagas.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Fri, 11 Oct 2019 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://amchagas.github.io/talk/</link>
+    </image>
+    
+    <item>
+      <title>Bringing Science to the 21 st century: Open Source tools for better research</title>
+      <link>https://amchagas.github.io/talk/2019_osmooc/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_osmooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Open Hardware for 21st century science</title>
+      <link>https://amchagas.github.io/talk/2019_delft/</link>
+      <pubDate>Wed, 10 Apr 2019 17:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_delft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting up a science lab with Open Source Hardware</title>
+      <link>https://amchagas.github.io/talk/2019_stem_hardware/</link>
+      <pubDate>Wed, 03 Apr 2019 17:30:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_stem_hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Open Source Scientific Equipment: How researchers are owning their instruments</title>
+      <link>https://amchagas.github.io/talk/2019_fosdem/</link>
+      <pubDate>Sat, 02 Mar 2019 16:30:30 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_fosdem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Science to the 21 st century: Open Source tools for better research</title>
+      <link>https://amchagas.github.io/talk/2019_rockefeller/</link>
+      <pubDate>Fri, 22 Feb 2019 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_rockefeller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Open Source Scientific Equipment: How researchers are owning their instruments</title>
+      <link>https://amchagas.github.io/talk/2019_ucsf/</link>
+      <pubDate>Fri, 15 Feb 2019 14:30:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_ucsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing publishing into the 21 st century: The battle for open access</title>
+      <link>https://amchagas.github.io/talk/2019_open_access_mozilla/</link>
+      <pubDate>Sat, 19 Jan 2019 20:06:47 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_open_access_mozilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware &amp; FlyPi workshop</title>
+      <link>https://amchagas.github.io/talk/2018_khartoum/</link>
+      <pubDate>Mon, 27 Aug 2018 20:06:28 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_khartoum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The current landscape of OS Hardware</title>
+      <link>https://amchagas.github.io/talk/2018_cape_town/</link>
+      <pubDate>Tue, 17 Apr 2018 09:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_cape_town/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field - A proxy for other fields</title>
+      <link>https://amchagas.github.io/talk/2018_chile/</link>
+      <pubDate>Thu, 12 Apr 2018 10:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field</title>
+      <link>https://amchagas.github.io/talk/2018_argentina/</link>
+      <pubDate>Thu, 05 Apr 2018 10:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_argentina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field</title>
+      <link>https://amchagas.github.io/talk/2018_cri/</link>
+      <pubDate>Thu, 25 Jan 2018 20:05:53 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_cri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science: Better standards and outcomes. Part I – Papers, Papers, Papers</title>
+      <link>https://amchagas.github.io/talk/2017_eye_clinic/</link>
+      <pubDate>Wed, 13 Dec 2017 09:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_eye_clinic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Science is crippled: How open source and Open Access are bringing science back to the 21st century</title>
+      <link>https://amchagas.github.io/talk/2017_phd_retreat_mafra/</link>
+      <pubDate>Mon, 30 Oct 2017 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_phd_retreat_mafra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Science is Crippled: How Open Source and Open Access are bringing science back to the 21st century</title>
+      <link>https://amchagas.github.io/talk/2017_phd_retreat_munich/</link>
+      <pubDate>Wed, 07 Jun 2017 15:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_phd_retreat_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of open source hardware in the medical field</title>
+      <link>https://amchagas.github.io/talk/2017_biohacking_medical_field/</link>
+      <pubDate>Tue, 23 May 2017 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_biohacking_medical_field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trazendo a pesquisa acadêmica para o século XXI: Como o acesso aberto e o código aberto estão devolvendo a ciência para os pesquisadores</title>
+      <link>https://amchagas.github.io/talk/2016_usp/</link>
+      <pubDate>Thu, 15 Dec 2016 13:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2016_usp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source and open access: The (long due) review of modern science</title>
+      <link>https://amchagas.github.io/talk/2015_sona/</link>
+      <pubDate>Sun, 22 Mar 2015 13:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2015_sona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Open Source</title>
+      <link>https://amchagas.github.io/talk/2013_sona/</link>
+      <pubDate>Mon, 17 Jun 2013 14:40:27 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2013_sona/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

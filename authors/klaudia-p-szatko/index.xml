@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klaudia P Szatko | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/authors/klaudia-p-szatko/</link>
+      <atom:link href="https://amchagas.github.io/authors/klaudia-p-szatko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Klaudia P Szatko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Klaudia P Szatko</title>
+      <link>https://amchagas.github.io/authors/klaudia-p-szatko/</link>
+    </image>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

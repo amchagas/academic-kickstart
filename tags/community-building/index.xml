@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Building | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/community-building/</link>
+      <atom:link href="https://amchagas.github.io/tags/community-building/index.xml" rel="self" type="application/rss+xml" />
+    <description>Community Building</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Mon, 13 Jan 2020 10:59:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Community Building</title>
+      <link>https://amchagas.github.io/tags/community-building/</link>
+    </image>
+    
+    <item>
+      <title>Open Hardware Leaders</title>
+      <link>https://amchagas.github.io/project/ohl/</link>
+      <pubDate>Mon, 13 Jan 2020 10:59:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ohl/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://openhardware4.me&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Leaders&lt;/a&gt; is a mentoring program based on 
+&lt;a href=&#34;&#34;&gt;Mozilla Open Leaders&lt;/a&gt;. Currently (03/2020) going through its first cohort, the program can be summarized as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Mentees&lt;/a&gt; interested in learning best practices for making their hardware projects truly open are paired with 
+&lt;a href=&#34;&#34;&gt;mentors&lt;/a&gt; that will support them navigate the 
+&lt;a href=&#34;&#34;&gt;program curriculum&lt;/a&gt; over the course of 14 weeks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The organization of this project is a joint effort  (names in Alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Alexander Kutschera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andre Maia Chagas&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Jose Carlos Urra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BFOSH</title>
+      <link>https://amchagas.github.io/project/bfosh/</link>
+      <pubDate>Wed, 01 May 2019 10:59:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/bfosh/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://fosh-following-demand.github.io/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BFOSH&lt;/a&gt; is a mentoring program developed during my fellowship with 
+&lt;a href=&#34;&#34;&gt;Mozilla&lt;/a&gt; and 
+&lt;a href=&#34;&#34;&gt;Freies Wissen&lt;/a&gt;. It can be summarized as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;In order to increase the reach and importance of Open Source Hardware in Science, we should developing research and educational tools based on demand.&lt;/li&gt;
+&lt;li&gt;To learn what this demand was/is a survey was sent asking people what tools they needed in their institutions/community projects.&lt;/li&gt;
+&lt;li&gt;Once the survey was concluded, a call for developers was made, and groups from different places in the world were supported with the components they needed to build a certain equipemnt, as well as weekly calls with assigned mentors to debate obstacles and help with other non-physical resources.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

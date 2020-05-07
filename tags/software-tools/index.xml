@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software tools | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/software-tools/</link>
+      <atom:link href="https://amchagas.github.io/tags/software-tools/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software tools</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Software tools</title>
+      <link>https://amchagas.github.io/tags/software-tools/</link>
+    </image>
+    
+    <item>
+      <title>Open Labware: 3-D Printing Your Own Lab Equipment</title>
+      <link>https://amchagas.github.io/publication/baden-open-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/baden-open-2015/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

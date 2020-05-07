@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/visual/</link>
+      <atom:link href="https://amchagas.github.io/tags/visual/index.xml" rel="self" type="application/rss+xml" />
+    <description>visual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 11:02:20 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>visual</title>
+      <link>https://amchagas.github.io/tags/visual/</link>
+    </image>
+    
+    <item>
+      <title>Fast Diode</title>
+      <link>https://amchagas.github.io/project/fastdiode/</link>
+      <pubDate>Thu, 26 Mar 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/fastdiode/</guid>
+      <description>&lt;p&gt;A project to support other developments at the workshop. An op-amp circuit that allows to read fast light transients.
+Can be used to measure if visual stimulators are working correctly or to trigger other systems.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

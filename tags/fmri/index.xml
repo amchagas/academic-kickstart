@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fMRI | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/fmri/</link>
+      <atom:link href="https://amchagas.github.io/tags/fmri/index.xml" rel="self" type="application/rss+xml" />
+    <description>fMRI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Tue, 04 Feb 2020 05:44:14 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>fMRI</title>
+      <link>https://amchagas.github.io/tags/fmri/</link>
+    </image>
+    
+    <item>
+      <title>Voltage amplifier</title>
+      <link>https://amchagas.github.io/project/voltageamp/</link>
+      <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/voltageamp/</guid>
+      <description>&lt;p&gt;This system was developed as part of a research project of the 
+&lt;a href=&#34;http://www.sussex.ac.uk/profiles/92444/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ward Lab&lt;/a&gt;. It is to be used with a stimulus isolation adaptor from BIOPAC, more specifically one of the models that provide isolated voltage: &lt;a href=&#34;https://www.biopac.com/product/stimulus-isolation-adapters/&#34;&gt;https://www.biopac.com/product/stimulus-isolation-adapters/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

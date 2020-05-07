@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Science | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/open-science/</link>
+      <atom:link href="https://amchagas.github.io/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Mon, 17 Jun 2013 14:40:27 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Open Science</title>
+      <link>https://amchagas.github.io/tags/open-science/</link>
+    </image>
+    
+    <item>
+      <title>The Power of Open Source</title>
+      <link>https://amchagas.github.io/talk/2013_sona/</link>
+      <pubDate>Mon, 17 Jun 2013 14:40:27 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2013_sona/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/publication_types/3/</link>
+      <atom:link href="https://amchagas.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://amchagas.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging Open Hardware to Alleviate the Burden of COVID-19 on Global Health Systems</title>
+      <link>https://amchagas.github.io/publication/chagas-preprint-leveraging-2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-preprint-leveraging-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LED Zappelin′: An open source LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging.</title>
+      <link>https://amchagas.github.io/publication/zimmermann-led-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zimmermann-led-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal structure of the inner retina at a single glance</title>
+      <link>https://amchagas.github.io/publication/zhao-temporal-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zhao-temporal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a Novel Educational Course to Teach 3D Printing, Circuit Design, and Programming to PhD Candidates in Nigeria</title>
+      <link>https://amchagas.github.io/publication/quinn-implementation-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/quinn-implementation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 100 Euro Lab: A 3-D Printable Open Source Platform For Fluorescence Microscopy, Optogenetics And Accurate Temperature Control During Behaviour Of Zebrafish, Drosophila And C. elegans</title>
+      <link>https://amchagas.github.io/publication/maia-chagas-100-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/maia-chagas-100-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

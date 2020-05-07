@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Voltammetry | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/voltammetry/</link>
+      <atom:link href="https://amchagas.github.io/tags/voltammetry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Voltammetry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Fri, 31 Jan 2020 11:02:20 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Voltammetry</title>
+      <link>https://amchagas.github.io/tags/voltammetry/</link>
+    </image>
+    
+    <item>
+      <title>Electrode calibration</title>
+      <link>https://amchagas.github.io/project/electrodecal/</link>
+      <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/electrodecal/</guid>
+      <description>&lt;p&gt;A project developed for the 
+&lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;, based on 
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinkala et al 2012&lt;/a&gt; we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

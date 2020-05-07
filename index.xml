@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/</link>
+      <atom:link href="https://amchagas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andre Maia Chagas CV</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andre Maia Chagas CV</title>
+      <link>https://amchagas.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Leveraging open hardware to alleviate the burden of COVID-19 on global health systems</title>
+      <link>https://amchagas.github.io/publication/chagas-leveraging-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-leveraging-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Diode</title>
+      <link>https://amchagas.github.io/project/fastdiode/</link>
+      <pubDate>Thu, 26 Mar 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/fastdiode/</guid>
+      <description>&lt;p&gt;A project to support other developments at the workshop. An op-amp circuit that allows to read fast light transients.
+Can be used to measure if visual stimulators are working correctly or to trigger other systems.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/amchagas/fast-response-diode&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leveraging Open Hardware to Alleviate the Burden of COVID-19 on Global Health Systems</title>
+      <link>https://amchagas.github.io/publication/chagas-preprint-leveraging-2020/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-preprint-leveraging-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LED Zappelin′: An open source LED controller for arbitrary spectrum visual stimulation and optogenetics during 2-photon imaging.</title>
+      <link>https://amchagas.github.io/publication/zimmermann-led-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zimmermann-led-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal structure of the inner retina at a single glance</title>
+      <link>https://amchagas.github.io/publication/zhao-temporal-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zhao-temporal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LED Zappelin</title>
+      <link>https://amchagas.github.io/project/ledzappelin/</link>
+      <pubDate>Tue, 18 Feb 2020 15:58:59 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ledzappelin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Visual Stimulator</title>
+      <link>https://amchagas.github.io/project/arbitrarystim/</link>
+      <pubDate>Tue, 18 Feb 2020 15:00:56 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/arbitrarystim/</guid>
+      <description>&lt;p&gt;Built as a collaboration of the 
+&lt;a href=&#34;badenlab.org&#34;&gt;Baden lab&lt;/a&gt; and the 
+&lt;a href=&#34;http://www.eye-tuebingen.de/eulerlab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Euler Lab&lt;/a&gt;, this spatial stimulator is able to use most of the commercially available LEDs, making it quite flexible in terms of wavelength spectra. It can take up to 6 different LEDs and be synchronised with most microscope systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;More details are available on its 
+&lt;a href=&#34;https://elifesciences.org/articles/48779&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pipette Puller Adapter</title>
+      <link>https://amchagas.github.io/project/pipette-puller-adapter/</link>
+      <pubDate>Tue, 18 Feb 2020 14:41:57 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/pipette-puller-adapter/</guid>
+      <description>&lt;p&gt;Developed for Dr. Eravci at the 
+&lt;a href=&#34;http://www.sussex.ac.uk/lifesci/internal/servicesandsupport/facilitiesandresources/massspectrometry&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mass Spectrometry&lt;/a&gt; unit, this 3D printed adapter is used to hold polyamide tubes in a pipette puller.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Med Associates Add-On</title>
+      <link>https://amchagas.github.io/project/medassocaddon/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/medassocaddon/</guid>
+      <description>&lt;p&gt;This is being developed for the 
+&lt;a href=&#34;http://www.sussex.ac.uk/profiles/206917/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crombag lab&lt;/a&gt; as well as the 
+&lt;a href=&#34;http://www.sussex.ac.uk/psychology/koyaensemblelab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koya Lab&lt;/a&gt;. The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voltage amplifier</title>
+      <link>https://amchagas.github.io/project/voltageamp/</link>
+      <pubDate>Tue, 04 Feb 2020 05:44:14 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/voltageamp/</guid>
+      <description>&lt;p&gt;This system was developed as part of a research project of the 
+&lt;a href=&#34;http://www.sussex.ac.uk/profiles/92444/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ward Lab&lt;/a&gt;. It is to be used with a stimulus isolation adaptor from BIOPAC, more specifically one of the models that provide isolated voltage: &lt;a href=&#34;https://www.biopac.com/product/stimulus-isolation-adapters/&#34;&gt;https://www.biopac.com/product/stimulus-isolation-adapters/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The idea is simple, we use the true analog output ports from the Arduino DUE as an independent channel and amplify their signals using Operational amplifiers. In this case two LM741 from Texas instruments. Using serial communication the system can be controlled in various ways, from the Arduino IDE to whatever programming languages (Python, Matlab, etc).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/voltage-amplifier&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electrode calibration</title>
+      <link>https://amchagas.github.io/project/electrodecal/</link>
+      <pubDate>Fri, 31 Jan 2020 11:02:20 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/electrodecal/</guid>
+      <description>&lt;p&gt;A project developed for the 
+&lt;a href=&#34;www.sussex.ac.uk/profiles/454349/research&#34;&gt;Singer Lab&lt;/a&gt;, based on 
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration/blob/master/literature/Sinkala%20et%20al.%20-%202012%20-%20Electrode%20calibration%20with%20a%20microfluidic%20flow%20cell%20for%20fast-scan%20cyclic%20voltammetry.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sinkala et al 2012&lt;/a&gt; we developed a 3D printable microfluidic chamber for electrode calibration. These calibrated electrodes are normally used in Voltammetry applications.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/electrode-calibration&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Hardware Leaders</title>
+      <link>https://amchagas.github.io/project/ohl/</link>
+      <pubDate>Mon, 13 Jan 2020 10:59:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/ohl/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://openhardware4.me&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Hardware Leaders&lt;/a&gt; is a mentoring program based on 
+&lt;a href=&#34;&#34;&gt;Mozilla Open Leaders&lt;/a&gt;. Currently (03/2020) going through its first cohort, the program can be summarized as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Mentees&lt;/a&gt; interested in learning best practices for making their hardware projects truly open are paired with 
+&lt;a href=&#34;&#34;&gt;mentors&lt;/a&gt; that will support them navigate the 
+&lt;a href=&#34;&#34;&gt;program curriculum&lt;/a&gt; over the course of 14 weeks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The organization of this project is a joint effort  (names in Alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Alexander Kutschera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Andre Maia Chagas&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Jose Carlos Urra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;&#34;&gt;Julieta Arancio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bringing Science to the 21 st century: Open Source tools for better research</title>
+      <link>https://amchagas.github.io/talk/2019_osmooc/</link>
+      <pubDate>Fri, 11 Oct 2019 15:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_osmooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal structure of the inner retina at a single glance</title>
+      <link>https://amchagas.github.io/publication/zhao-temporal-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/zhao-temporal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFOSH</title>
+      <link>https://amchagas.github.io/project/bfosh/</link>
+      <pubDate>Wed, 01 May 2019 10:59:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/bfosh/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://fosh-following-demand.github.io/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BFOSH&lt;/a&gt; is a mentoring program developed during my fellowship with 
+&lt;a href=&#34;&#34;&gt;Mozilla&lt;/a&gt; and 
+&lt;a href=&#34;&#34;&gt;Freies Wissen&lt;/a&gt;. It can be summarized as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;In order to increase the reach and importance of Open Source Hardware in Science, we should developing research and educational tools based on demand.&lt;/li&gt;
+&lt;li&gt;To learn what this demand was/is a survey was sent asking people what tools they needed in their institutions/community projects.&lt;/li&gt;
+&lt;li&gt;Once the survey was concluded, a call for developers was made, and groups from different places in the world were supported with the components they needed to build a certain equipemnt, as well as weekly calls with assigned mentors to debate obstacles and help with other non-physical resources.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An arbitrary-spectrum spatial visual stimulator for vision research</title>
+      <link>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/franke-arbitrary-spectrum-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Open Hardware for 21st century science</title>
+      <link>https://amchagas.github.io/talk/2019_delft/</link>
+      <pubDate>Wed, 10 Apr 2019 17:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_delft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting up a science lab with Open Source Hardware</title>
+      <link>https://amchagas.github.io/talk/2019_stem_hardware/</link>
+      <pubDate>Wed, 03 Apr 2019 17:30:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_stem_hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Open Source Scientific Equipment: How researchers are owning their instruments</title>
+      <link>https://amchagas.github.io/talk/2019_fosdem/</link>
+      <pubDate>Sat, 02 Mar 2019 16:30:30 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_fosdem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Science to the 21 st century: Open Source tools for better research</title>
+      <link>https://amchagas.github.io/talk/2019_rockefeller/</link>
+      <pubDate>Fri, 22 Feb 2019 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_rockefeller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Open Source Scientific Equipment: How researchers are owning their instruments</title>
+      <link>https://amchagas.github.io/talk/2019_ucsf/</link>
+      <pubDate>Fri, 15 Feb 2019 14:30:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_ucsf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing publishing into the 21 st century: The battle for open access</title>
+      <link>https://amchagas.github.io/talk/2019_open_access_mozilla/</link>
+      <pubDate>Sat, 19 Jan 2019 20:06:47 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2019_open_access_mozilla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building and hacking open source hardware</title>
+      <link>https://amchagas.github.io/publication/monachino-building-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/monachino-building-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First advanced open labware workshop and rapid prototyping solutions for research challenges in Africa</title>
+      <link>https://amchagas.github.io/publication/smith-first-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/smith-first-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haves and have nots must find a better way: The case for open scientific hardware</title>
+      <link>https://amchagas.github.io/publication/chagas-haves-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-haves-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware &amp; FlyPi workshop</title>
+      <link>https://amchagas.github.io/talk/2018_khartoum/</link>
+      <pubDate>Mon, 27 Aug 2018 20:06:28 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_khartoum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The current landscape of OS Hardware</title>
+      <link>https://amchagas.github.io/talk/2018_cape_town/</link>
+      <pubDate>Tue, 17 Apr 2018 09:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_cape_town/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field - A proxy for other fields</title>
+      <link>https://amchagas.github.io/talk/2018_chile/</link>
+      <pubDate>Thu, 12 Apr 2018 10:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field</title>
+      <link>https://amchagas.github.io/talk/2018_argentina/</link>
+      <pubDate>Thu, 05 Apr 2018 10:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_argentina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science Hardware in the Biomedical Field</title>
+      <link>https://amchagas.github.io/talk/2018_cri/</link>
+      <pubDate>Thu, 25 Jan 2018 20:05:53 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2018_cri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science: Better standards and outcomes. Part I – Papers, Papers, Papers</title>
+      <link>https://amchagas.github.io/talk/2017_eye_clinic/</link>
+      <pubDate>Wed, 13 Dec 2017 09:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_eye_clinic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Science is crippled: How open source and Open Access are bringing science back to the 21st century</title>
+      <link>https://amchagas.github.io/talk/2017_phd_retreat_mafra/</link>
+      <pubDate>Mon, 30 Oct 2017 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_phd_retreat_mafra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a Novel Educational Course to Teach 3D Printing, Circuit Design, and Programming to PhD Candidates in Nigeria</title>
+      <link>https://amchagas.github.io/publication/quinn-implementation-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/quinn-implementation-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The €100 lab: A 3D-printable open-source platform for fluorescence microscopy, optogenetics, and accurate temperature control during behaviour of zebrafish, Drosophila, and Caenorhabditis elegans</title>
+      <link>https://amchagas.github.io/publication/chagas-100-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/chagas-100-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Science is Crippled: How Open Source and Open Access are bringing science back to the 21st century</title>
+      <link>https://amchagas.github.io/talk/2017_phd_retreat_munich/</link>
+      <pubDate>Wed, 07 Jun 2017 15:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_phd_retreat_munich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of open source hardware in the medical field</title>
+      <link>https://amchagas.github.io/talk/2017_biohacking_medical_field/</link>
+      <pubDate>Tue, 23 May 2017 14:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2017_biohacking_medical_field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 100 Euro Lab: A 3-D Printable Open Source Platform For Fluorescence Microscopy, Optogenetics And Accurate Temperature Control During Behaviour Of Zebrafish, Drosophila And C. elegans</title>
+      <link>https://amchagas.github.io/publication/maia-chagas-100-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/maia-chagas-100-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trazendo a pesquisa acadêmica para o século XXI: Como o acesso aberto e o código aberto estão devolvendo a ciência para os pesquisadores</title>
+      <link>https://amchagas.github.io/talk/2016_usp/</link>
+      <pubDate>Thu, 15 Dec 2016 13:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2016_usp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open source and open access: The (long due) review of modern science</title>
+      <link>https://amchagas.github.io/talk/2015_sona/</link>
+      <pubDate>Sun, 22 Mar 2015 13:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2015_sona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Labware: 3-D Printing Your Own Lab Equipment</title>
+      <link>https://amchagas.github.io/publication/baden-open-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/baden-open-2015/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.PNG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond GLMs: A Generative Mixture Modeling Approach to Neural System Identification</title>
+      <link>https://amchagas.github.io/publication/theis-beyond-2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/theis-beyond-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Power of Open Source</title>
+      <link>https://amchagas.github.io/talk/2013_sona/</link>
+      <pubDate>Mon, 17 Jun 2013 14:40:27 +0000</pubDate>
+      <guid>https://amchagas.github.io/talk/2013_sona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional analysis of ultra high information rates conveyed by rat vibrissal primary afferents</title>
+      <link>https://amchagas.github.io/publication/maia-chagas-functional-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/maia-chagas-functional-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impaired c-Fos and Polo-Like Kinase 2 Induction in the Limbic System of Fear-conditioned α-Synuclein Transgenic Mice</title>
+      <link>https://amchagas.github.io/publication/schell-impaired-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://amchagas.github.io/publication/schell-impaired-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

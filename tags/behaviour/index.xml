@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behaviour | Andre Maia Chagas CV</title>
+    <link>https://amchagas.github.io/tags/behaviour/</link>
+      <atom:link href="https://amchagas.github.io/tags/behaviour/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behaviour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andre Maia Chagas 2020</copyright><lastBuildDate>Fri, 14 Feb 2020 05:21:12 +0000</lastBuildDate>
+    <image>
+      <url>https://amchagas.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Behaviour</title>
+      <link>https://amchagas.github.io/tags/behaviour/</link>
+    </image>
+    
+    <item>
+      <title>Med Associates Add-On</title>
+      <link>https://amchagas.github.io/project/medassocaddon/</link>
+      <pubDate>Fri, 14 Feb 2020 05:21:12 +0000</pubDate>
+      <guid>https://amchagas.github.io/project/medassocaddon/</guid>
+      <description>&lt;p&gt;This is being developed for the 
+&lt;a href=&#34;http://www.sussex.ac.uk/profiles/206917/publications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Crombag lab&lt;/a&gt; as well as the 
+&lt;a href=&#34;http://www.sussex.ac.uk/psychology/koyaensemblelab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Koya Lab&lt;/a&gt;. The goal is to create a &amp;ldquo;translator&amp;rdquo; that allows for the use of off-the-shelf electronics and DIY solutions with the Med Associates systems. This way experiments can be programmed the same way as before, but with more flexibility in terms of what can be achieved, at a much faster pace. In other words this systems takes digital and analog signals (normally around 5V) and converts them to 28V triggers that med associates systems detects. It can also take the 28V signals coming from med associates and trigger other custom electronics.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/Sussex-Neuroscience/med-associates-addon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Project repository&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
