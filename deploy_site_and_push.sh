@@ -13,13 +13,13 @@ if [ ! -d .git ]; then
 fi
 
 function run_hugo_and_deploy () {
-  GITHUBUSER=$(git config github.user)
+#  GITHUBUSER=$(git config github.user)
   echo -e "running hugo...\n"
   hugo
   cd public
   git add .
   git commit -m "update public"
-  git push:${amchagas:-${GITHUBUSER}}
+  git push
   cd ..
   git add .
   git commit -m "update main repo"
