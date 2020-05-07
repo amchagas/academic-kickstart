@@ -48,7 +48,7 @@ jobs:
         git config --local user.email 'andremaia.chagas@gmail.com'
         
         git add .
-        git commit -am "deploying website"
+        git commit -m "deploying website"
     
     #push changes
     - name: Push changes
